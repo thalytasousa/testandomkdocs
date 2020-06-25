@@ -1,0 +1,7 @@
+site_name: Teste
+
+nav:
+        - Inicio: index.md
+        - Sobre: about.md
+
+theme: readthedocs
